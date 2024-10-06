@@ -1,4 +1,6 @@
-# Asthma Diagnosis Prediction Project Documentation
+# Asthma Diagnosis Prediction ( ML Classification Project ) 
+
+## Asthma Diagnosis Prediction Project Documentation
 
 ## Table of Contents
 1. Introduction
